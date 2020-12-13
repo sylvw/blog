@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today I learned - --disable-dev-shm-usage chrome flag
+title: --disable-dev-shm-usage chrome flag
 ---
 Background: Tests written with webdriverio started to fail in CI
 (This is WIP description.)
